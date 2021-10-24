@@ -1,0 +1,16 @@
+Hit:1 http://dl.google.com/linux/chrome/deb stable InRelease
+Hit:2 http://deb.anydesk.com all InRelease
+Get:3 https://desktop-download.mendeley.com/download/apt stable InRelease [2 456 B]
+Hit:4 http://security.ubuntu.com/ubuntu focal-security InRelease
+Get:5 https://download.docker.com/linux/ubuntu focal InRelease [57,7 kB]
+Hit:6 http://ppa.launchpad.net/deadsnakes/ppa/ubuntu focal InRelease
+Hit:7 http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu focal InRelease
+Hit:8 https://packages.microsoft.com/repos/ms-teams stable InRelease
+Hit:9 https://linux.teamviewer.com/deb stable InRelease
+Hit:10 http://ppa.launchpad.net/tomtomtom/woeusb/ubuntu focal InRelease
+Hit:11 http://ru.archive.ubuntu.com/ubuntu focal InRelease
+Hit:12 http://ru.archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:13 http://ru.archive.ubuntu.com/ubuntu focal-backports InRelease
+Hit:14 http://ru.archive.ubuntu.com/ubuntu focal-proposed InRelease
+Fetched 60,1 kB in 4s (15,2 kB/s)
+Reading package lists...
